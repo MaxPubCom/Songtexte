@@ -1,2 +1,2 @@
 # Songtexte
-Übersetzte Songtexte (lyrics), von Song aus allen Sprachen.
+Übersetzte Songtexte (lyrics), von Songs aus allen Sprachen.
